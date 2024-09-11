@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.20.0",
+    "hbs": "^4.2.0"
+  },
+  "name": "05.04.hbshelpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
